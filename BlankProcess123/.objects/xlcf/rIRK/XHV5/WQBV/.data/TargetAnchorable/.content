@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="NJeGHPOGMkCa4uRDrAxPeQ" DesignTimeRectangle="148, 137, 219, 35" ElementType="Text" FriendlyName="'&lt;em&gt;UiPath南区GSI培训群&lt;/em&gt;'" FullSelectorArgument="&lt;ctrl name='Search Results' role='list' /&gt;&lt;ctrl name='*' role='list item' /&gt;&lt;ctrl name='*' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Search Results' role='list' /&gt;&lt;ctrl name='UiPath南区GSI培训群' role='list item' /&gt;&lt;ctrl name='*UiPath南区GSI培训群*' role='text' automationid='' check:text='*UiPath南区GSI培训群*' /&gt;" ScopeSelectorArgument="&lt;wnd app='wechat.exe' cls='WeChatMainWndForPC' title='WeChat' /&gt;" SearchSteps="Selector" Text="&lt;em&gt;UiPath南区GSI培训群&lt;/em&gt;" TextMethod="AttributeText" TextSelector="&lt;ctrl role='text' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0SGr36gee8EK0pF21Ly-FAw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="13701a36c42abc5f3d7458610d3cd49d.png" xmlns="">0pPpsfUJf-0OY3V98-07axw</imageRef>
+</TargetAnchorable>

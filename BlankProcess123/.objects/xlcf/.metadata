@@ -1,0 +1,11 @@
+﻿{
+  "Id": "xlcfDVEE4ECfmCuVnYskOg",
+  "Reference": "2RvukQ5Hn0eEbU4aU7lCJw/xlcfDVEE4ECfmCuVnYskOg",
+  "Name": "WeChat app",
+  "Type": "App",
+  "Created": "2020-12-21T08:13:24.0727408Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-12-21T08:13:24.0727408Z"
+}

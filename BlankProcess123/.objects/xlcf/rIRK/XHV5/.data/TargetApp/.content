@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp ContentHash="qOkfL_16M0KLIETcW724jg" FilePath="C:\Program Files (x86)\Tencent\WeChat\wechat.exe" Selector="&lt;wnd app='wechat.exe' cls='WeChatMainWndForPC' title='WeChat'/&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0JohDGeikGkC5zlvmFuHqcg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="3ff68ddac6b7bcb64c6f4765f2eb5f6e.png" xmlns="">0mi5pcp3l7E6AqEyvZZsldA</imageRef>
+</TargetApp>

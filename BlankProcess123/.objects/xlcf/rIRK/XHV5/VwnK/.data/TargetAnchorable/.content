@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="l6e_dcKj5Eus3PKGcg6bEg" DesignTimeRectangle="944, 825, 85, 33" ElementType="Button" FriendlyName="'Send (S)'" FullSelectorArgument="&lt;ctrl name='Send (S)' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Send (S)' role='push button' automationid='' check:text='Send (S)' /&gt;" ScopeSelectorArgument="&lt;wnd app='wechat.exe' cls='WeChatMainWndForPC' title='WeChat' /&gt;" SearchSteps="Selector" Text="Send (S)" TextMethod="AttributeText" TextSelector="&lt;ctrl role='push button' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0iwe0ucEcTE-wkC6xW73-fQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e6db7793ec03ccccd704582c9c590ac7.png" xmlns="">0RVpV6OoSbU6IIzzfiEp81w</imageRef>
+</TargetAnchorable>

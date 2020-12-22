@@ -1,0 +1,16 @@
+﻿{
+  "Id": "VwnKFaN0406a6ASTunaSZg",
+  "Reference": "2RvukQ5Hn0eEbU4aU7lCJw/VwnKFaN0406a6ASTunaSZg",
+  "ParentRef": "2RvukQ5Hn0eEbU4aU7lCJw/XHV5OdN8VEeN9sPbtxIOCg",
+  "Name": "Send (S)",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-12-21T08:13:24.7678827Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-12-21T08:22:27.4233032Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

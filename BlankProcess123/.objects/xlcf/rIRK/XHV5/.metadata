@@ -1,0 +1,12 @@
+﻿{
+  "Id": "XHV5OdN8VEeN9sPbtxIOCg",
+  "Reference": "2RvukQ5Hn0eEbU4aU7lCJw/XHV5OdN8VEeN9sPbtxIOCg",
+  "ParentRef": "2RvukQ5Hn0eEbU4aU7lCJw/rIRKAjsQEUO82ZMhMPXQQw",
+  "Name": "WeChat",
+  "Type": "Screen",
+  "Created": "2020-12-21T08:13:24.1465446Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-12-21T08:13:24.1465446Z"
+}

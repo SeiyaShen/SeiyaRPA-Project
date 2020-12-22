@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cYdZNxTgAkiTdassUt_Spw",
+  "Reference": "2RvukQ5Hn0eEbU4aU7lCJw/cYdZNxTgAkiTdassUt_Spw",
+  "ParentRef": "2RvukQ5Hn0eEbU4aU7lCJw/XHV5OdN8VEeN9sPbtxIOCg",
+  "Name": "text",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2020-12-21T08:13:24.3031247Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=20.10.4.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2020-12-21T08:13:24.3031247Z"
+}

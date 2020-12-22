@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="O07zFsk-O0i-ePLmdYHjOQ" DesignTimeRectangle="388, 635, 687, 184" ElementType="InputBox" FriendlyName="'Enter'" FullSelectorArgument="&lt;ctrl name='Enter' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Enter' role='editable text' automationid='' /&gt;" ScopeSelectorArgument="&lt;wnd app='wechat.exe' cls='WeChatMainWndForPC' title='WeChat' /&gt;" SearchSteps="Selector" Text="Enter" TextMethod="AttributeText" TextSelector="&lt;ctrl role='editable text' /&gt;" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">02ji0t-y_LkSdUvxmb-Uojw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="9f7aa822b7688c2cd410bc25937b9bad.png" xmlns="">0QF0Op4ACjE6okTCzXiVbBA</imageRef>
+</TargetAnchorable>

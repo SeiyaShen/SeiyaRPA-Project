@@ -1,0 +1,1 @@
+"C:\Users\seiya.z.shen\AppData\Local\UiPath\app-20.4.1\UiRobot.exe" -file "C:\Users\seiya.z.shen\Documents\UiPath\BlankProcess123\main.xaml"
